@@ -1,0 +1,17 @@
+body {
+    background-color: teal;
+}
+.demo{
+    
+background-color: red;
+color: white;
+font-size: 18px;
+padding: 10px;
+}
+.vip{
+    background-color: blue;
+color: brown;
+font-size: 14px;
+padding: 5px;
+box-shadow:  10px 10px 10px 10px red;
+}
